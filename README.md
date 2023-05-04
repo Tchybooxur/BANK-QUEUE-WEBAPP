@@ -2,7 +2,7 @@
 ### A simple web application in c# that illustrates the basic workings of a queue data structure.
 
 Take a sneak peak below:
-![]()  
+![!Queue Pics](https://github.com/Tchybooxur/BANK-QUEUE-WEBAPP/blob/master/QueueWebAppSnapshot.png?raw=true)  
 
 This code-along project was embarked on when I was being introduced to C# via pragim technologies tutorial videos.
 The app is easy to operate. You run the code, you print tokens and issue them to customers at the bank. The customers are then assigned to
